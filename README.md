@@ -1,4 +1,4 @@
-# ressource-pack
+# Default mus use ressource-pack + terrorist Creeper
 
 Server resource pack for a small private Paper 1.21.11 server. It bundles a few
 popular vanilla-friendly packs into one download and adds a custom creeper.
