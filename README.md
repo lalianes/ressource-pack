@@ -57,6 +57,19 @@ pitch is 0.5 × 2.0 = 1.0 and the sound plays as recorded.
 The fuse lasts 1.5 seconds, so the sound file is trimmed to 1.25 seconds with no
 leading silence. It ends just before the vanilla explosion.
 
+## Adapting the pack
+
+The whole pack was built with [Claude](https://claude.ai) (Claude Code), so it is a
+good tool for changing it too. Give it the zip and say what you want, for example:
+
+- swap the creeper texture or sound for your own files
+- remove a part you don't want (e.g. Vocal Villagers)
+- bump `pack.mcmeta` to another Minecraft version and check which textures moved
+- build a new release and get the new SHA1 for your server config
+
+Simple swaps work right away. A version change can still need manual fixes,
+because Mojang moves GUI textures around between versions.
+
 ## Server setup (itzg/minecraft-server)
 
 ```yaml
