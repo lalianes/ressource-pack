@@ -5,6 +5,19 @@ popular vanilla-friendly packs into one download and adds a custom creeper.
 
 Download: see [Releases](https://github.com/lalianes/ressource-pack/releases) (latest: `v14`, pack format 75 / Minecraft 1.21.11).
 
+## Compatibility
+
+| | Supported |
+| --- | --- |
+| Minecraft | Java Edition 1.21.11 only (`pack.mcmeta`: `min_format` = `max_format` = 75) |
+| Bedrock | No. Bedrock uses a different pack format, Geyser players will not get it |
+| Server software | Any Java server that can send a resource pack: Vanilla, Paper, Spigot, Purpur, Fabric, NeoForge |
+| Without a server | Works too: drop the zip into `.minecraft/resourcepacks` and enable it in the game |
+
+Other versions show the pack as incompatible. You can force it on, but GUI
+textures and the enchanted book covers may break, because their file layout
+changes between versions.
+
 ## What's inside
 
 | Part | What it does | Author | License |
