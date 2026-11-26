@@ -1,4 +1,4 @@
-# Default mus use ressource-pack + terrorist Creeper
+# ressource-pack
 
 Server resource pack for a small private Paper 1.21.11 server. It bundles a few
 popular vanilla-friendly packs into one download and adds a custom creeper.
@@ -14,7 +14,7 @@ Download: see [Releases](https://github.com/lalianes/ressource-pack/releases) (l
 | [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) | Lower fire overlay on screen | Haikis | ARR |
 | [Low Shield](https://modrinth.com/resourcepack/low-shield-pack) | Lower shield while blocking | Oculie | ARR |
 | [Vocal Villagers](https://modrinth.com/resourcepack/vvi) | 43 extra villager voice lines | Owehttamy | see project page |
-| Custom creeper | Working Terrorist creeper texture pack incling a well timed allah agbar instead of the vanilla detonating sound | lalianes | |
+| Custom creeper | New creeper texture and a custom fuse sound (below) | lalianes | |
 
 The mod-specific folders (`assets/ae2`, `assets/jei`, ...) only apply when the
 matching mod is installed. On a vanilla client they are simply ignored.
